@@ -1,0 +1,18 @@
+# model checkpoints / adapters
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+medical-phi3-sft-final/
+model_offload/
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+wandb/
+
+# os
+.DS_Store
